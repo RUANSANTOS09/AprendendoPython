@@ -1,0 +1,5 @@
+diaNascimento = int(input('Qual é o dia do seu nascimento?'))
+mesNascimento = input('Qual é o mês do seu nascimento?')
+anoNascimento = int(input('Qual é o ano do seu nascimento?'))
+print('Você nasceu no dia' , diaNascimento, 'de ', mesNascimento, 'do ano de ', anoNascimento ,'Correto?' )
+input()

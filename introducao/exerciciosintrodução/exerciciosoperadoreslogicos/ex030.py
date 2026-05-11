@@ -1,0 +1,5 @@
+idade = int(input('Qual a sua idade?'))
+socio = str(input('Você é socio?'))
+faixa_etaria = (idade < 18 or idade > 60)
+verificador = faixa_etaria and not (socio == 'Sim')
+print('Tem direito a desconto? {}'.format(verificador))

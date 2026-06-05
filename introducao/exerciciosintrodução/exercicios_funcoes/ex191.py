@@ -5,5 +5,5 @@ def update_email(val,email):
     return val
 
 user = create_user('Ruan',18)
-user_with_new_email = update_email(user,'criologil@gmail.com')
+user_with_new_email = update_email(user,'criologill@gmail.com')
 print(user_with_new_email)

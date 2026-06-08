@@ -1,7 +1,7 @@
 var_global_name = 'Ruan'
 def write_text():
     global var_global_name
-    var_global_name = 'Isabela'
+    var_global_name = 'Érika'
     print(var_global_name)
 
 if __name__ == '__main__':

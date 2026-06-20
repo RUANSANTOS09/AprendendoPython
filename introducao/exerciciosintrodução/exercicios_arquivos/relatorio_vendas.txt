@@ -1,0 +1,4 @@
+Produto: notebook | Preço: R$ 2500
+Produto: mouse | Preço: R$ 50
+Produto: teclado | Preço: R$ 120
+Produto: monitor | Preço: R$ 800

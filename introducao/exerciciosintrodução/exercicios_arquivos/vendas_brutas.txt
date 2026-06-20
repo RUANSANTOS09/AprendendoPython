@@ -1,0 +1,4 @@
+notebook,2500
+mouse,50
+teclado,120
+monitor,800

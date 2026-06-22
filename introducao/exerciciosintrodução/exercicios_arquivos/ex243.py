@@ -1,6 +1,6 @@
 question = input('Digite uma palavra e encontre-a no arquivo: ')
 try:
-    manipulator = open('log_processamento','r', encoding='utf-8')
+    manipulator = open('../exercicio_with/log_processamento', 'r', encoding='utf-8')
     for line in manipulator:
         line = line.rstrip()
         if question in line:

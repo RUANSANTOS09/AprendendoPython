@@ -1,5 +1,5 @@
 try:
-    manipulator = open('log_processamento','r', encoding='utf8')
+    manipulator = open('../exercicio_with/log_processamento', 'r', encoding='utf8')
 except IOError:
     print('O arquivo não foi encontrado!!!')
 else:
